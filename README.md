@@ -135,3 +135,28 @@
 ### **10 Bogo Sells/month**  
 - **Revenue**: $120  
 - **Profit**: $108.34
+
+## **$6.49/lobby**
+### **2 Sells/month**  
+- **Revenue**: $12.98  
+- **Profit**: $12.98 - $11.66 = **$1.32**
+
+### **5 Sells/month**  
+- **Revenue**: $32.45  
+- **Profit**: $32.45 - $11.66 = **$20.79**
+
+### **10 Sells/month**  
+- **Revenue**: $64.90  
+- **Profit**: $64.90 - $11.66 = **$53.24**
+
+### **2 Bogo Sells/month**  
+- **Revenue**: $32.45  
+- **Profit**: $32.45 - $11.66 = **$20.79**
+
+### **5 Bogo Sells/month**  
+- **Revenue**: $81.13  
+- **Profit**: $81.13 - $11.66 = **$69.47**
+
+### **10 Bogo Sells/month**  
+- **Revenue**: $162.25  
+- **Profit**: $162.25 - $11.66 = **$150.59**
